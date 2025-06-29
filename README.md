@@ -13,7 +13,7 @@ Curious CS student @ YorkU,
 passionate about machine learning, AI, robotics, and earl grey tea.
 
 
-> echo "Thinks in code, dreams in AI, and cries in semicolons"
+> echo "Thinks in code, dreams in AI, and cries in semicolons;"
 Thinks in code, dreams in AI, and cries in semicolons;
 
 > cat passions.txt
