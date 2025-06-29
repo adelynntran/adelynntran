@@ -1,4 +1,8 @@
-<h1 align="center">Hello World 👋, I'm Adelynn</h1>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&width=435&center=true&vCenter=true&lines=Hello+World%F0%9F%91%8B%2C+I'm+Adelynn" alt="Typing SVG" />
+  </a>
+</p>
 <h3 align="center">Computer Science student @ York University, Canada</h3>
 
 <p align="center">
