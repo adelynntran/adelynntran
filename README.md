@@ -1,25 +1,26 @@
 <h1 align="center">Hello World 👋, I'm Adelynn</h1>
-<h3 align="center">Curious CS student @ YorkU</h3>
+<h3 align="center">Computer Science student @ York University, Canada</h3>
 
 <p align="center">
-  <em>Thinks in code, dreams in AI, and cries in semicolons.</em>
+  <em>git add. git commit -m "Stay curious!" git push</em>
 </p>
 
 <br/>
 
 ```bash
 > whoami
-Curious CS student @ YorkU
+Curious CS student @ YorkU,
+passionate about machine learning, AI, robotics, and earl grey tea.
+
 
 > echo "Thinks in code, dreams in AI, and cries in semicolons"
-Thinks in code, dreams in AI, and cries in semicolons
+Thinks in code, dreams in AI, and cries in semicolons;
 
 > cat passions.txt
-Exploring AI, building with Pi, and crying over semicolons — 
+Exploring AI, building with Pi, and crying over {curly brackets} — 
 just a YorkU CS major thing 💻🥧
-Fueled by curiosity, bugs, and a questionable amount of 
-Raspberry Pi
-Robotics, AI, and vibes. That’s the repo.
+Fueled by curiosity, bugs, and a questionable amount of Raspberry Pi. 👀
+Robotics, AI, and vibes. That’s the repo. 🙂‍↕️
 
 > sudo apt-get install curiosity --yes
 Curiosity installed. Learning never stops. 🚀
