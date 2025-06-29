@@ -2,7 +2,7 @@
 <h3 align="center">Computer Science student @ York University, Canada</h3>
 
 <p align="center">
-  <em>git add. git commit -m "Stay curious!" git push</em>
+  <code># git add . && git commit -m "Stay curious!" && git push</code>
 </p>
 
 <br/>
