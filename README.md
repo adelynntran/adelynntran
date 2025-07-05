@@ -24,8 +24,8 @@ Thinks in code, dreams in AI, and cries in semicolons;
 > cat passions.txt
 Exploring AI, building with Pi, and crashing over {curly brackets} — 
 just a YorkU CS major thing 💻🥧
-Fueled by "how"s, "why"s, and a questionable amount of Raspberry Pi. 👀
-Robotics, AI, ideas and caffeine. That’s the repo. 🙂‍↕️
+Fueled by “how”s, “why”s, and a suspicious amount of Raspberry Pi. 👀
+Robotics, AI, caffeine, and chaotic ideas. That’s the repo. 😌
 
 > sudo apt-get install curiosity --yes
 Curiosity installed. Learning never stops. 🚀
@@ -33,11 +33,11 @@ Curiosity installed. Learning never stops. 🚀
 
 ---
 
-- 🔭 I’m currently working on [Planfinity](https://github.com/adelynntran/Planfinity)
-
-- 🤝 I’m collaborating with a team on [Weight Insights](https://github.com/weight-insights)
+- 🔭 Currently building [Planfinity](https://github.com/adelynntran/Planfinity) — an academic planner powered by React + future AI goals
+- 🤝 Collaborating on [Weight Insights](https://github.com/weight-insights) — a social, gamified weight tracking platform
 
 ---
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
