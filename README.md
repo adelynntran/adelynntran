@@ -22,10 +22,10 @@ passionate about machine learning, AI, robotics, and earl grey tea.
 Thinks in code, dreams in AI, and cries in semicolons;
 
 > cat passions.txt
-Exploring AI, building with Pi, and crying over {curly brackets} — 
+Exploring AI, building with Pi, and crashing over {curly brackets} — 
 just a YorkU CS major thing 💻🥧
-Fueled by curiosity, bugs, and a questionable amount of Raspberry Pi. 👀
-Robotics, AI, and vibes. That’s the repo. 🙂‍↕️
+Fueled by "how"s, "why"s, and a questionable amount of Raspberry Pi. 👀
+Robotics, AI, ideas and caffeine. That’s the repo. 🙂‍↕️
 
 > sudo apt-get install curiosity --yes
 Curiosity installed. Learning never stops. 🚀
