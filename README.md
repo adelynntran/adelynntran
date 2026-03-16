@@ -33,7 +33,7 @@ Curiosity installed. Learning never stops. 🚀
 
 ---
 
-- 🔭 Currently building [Planfinity](https://github.com/adelynntran/Planfinity) — an academic planner powered by React + future AI goals
+- 🔭 Currently building **itergo** — a group travel planning app with Next.js, PostgreSQL, and REST APIs
 - 🤝 Collaborating on [Weight Insights](https://github.com/weight-insights) — a social, gamified weight tracking platform
 
 ---
@@ -83,6 +83,12 @@ Curiosity installed. Learning never stops. 🚀
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
