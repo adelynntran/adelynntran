@@ -33,7 +33,7 @@ Curiosity installed. Learning never stops. 🚀
 
 ---
 
-- 🔭 Currently building **itergo** — a group travel planning app with Next.js, PostgreSQL, and REST APIs
+- 🔭 Currently building [itergo](https://github.com/adelynntran/itergo) — a group travel planning app with Next.js, PostgreSQL, and REST APIs
 - 🤝 Collaborating on [Weight Insights](https://github.com/weight-insights) — a social, gamified weight tracking platform
 
 ---
